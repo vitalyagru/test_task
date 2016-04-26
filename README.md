@@ -9,3 +9,5 @@
   <li>Jquery</li>
 </ul>
 <h3> <a href="http://test-task.zzz.com.ua">http://test-task.zzz.com.ua</a> - страница шаблон Wordpress собранная на основе сверстанного шаблона</h3>
+<h4>Позиции виджетов</h4>
+<img src="https://raw.githubusercontent.com/vitalyagru/test_task/master/pos_widgets.jpg" alt="pos_widget">
