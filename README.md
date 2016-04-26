@@ -3,6 +3,8 @@
 <h2>Что использовано</h2>
 <ul>
   <li>Wordpress</li>
+  <li>HTML/CSS</li>
+  <li>PHP</li>
   <li>Bootstrap grid</li>
   <li>Jquery</li>
 </ul>
